@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.dani.pr22_captura_app_externa"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.dani.pr22_captura_app_externa"
